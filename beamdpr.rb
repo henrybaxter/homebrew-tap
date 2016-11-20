@@ -5,9 +5,9 @@
 class Beamdpr < Formula
   desc "Transform and combine egsphsp (EGS phase space) files"
   homepage "https://github.com/henrybaxter/beamdpr"
-  url "https://github.com/henrybaxter/beamdpr/archive/0.1.5.tar.gz"
-  version "0.1.5"
-  sha256 "26e49456c6f76a39b44c53cb40bae151326360e7cedcfe68104f974fb4608fa3"
+  url "https://github.com/henrybaxter/beamdpr/archive/0.2.1.tar.gz"
+  version "0.2.1"
+  sha256 "3942092d7a3611c5a05d7c6aa97f9f6c9586547a5d801fc22b69d1f4b1e4acc8"
   head "https://github.com/henrybaxter/beamdpr.git"
 
   depends_on "rust" => :build
